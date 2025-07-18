@@ -18,7 +18,7 @@
 
 | Project | Description | Tech Used | Live Link |
 |--------|-------------|-----------|-----------|
-| 🧮 **Calculator** | Simple calculator for basic arithmetic operations | HTML, CSS, JavaScript | [Live Demo](https://calculator-zf.netlify.app) |
+| 🧮 **Calculator** | Simple calculator for basic arithmetic operations | HTML, CSS, JavaScript | [Calculator](https://calculator-zf.netlify.app) |
 | ✅ **To-Do List** | Task manager with add/mark/delete features | HTML, CSS, JavaScript | [Grocery List](https://grocerylist-zf.netlify.app) |
 | 📸 **Photo Portfolio** | Personal photo gallery for UI layout practice | HTML, CSS, JS | [Photo Portfolio](https://photo-portfolio-zf.netlify.app) |
 | 🌦️ **Weather Forecast** | Real-time forecast via API with location search | JS, Weather API | [Weather App](https://weatherforecast-zf.netlify.app) |
