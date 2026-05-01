@@ -26,7 +26,7 @@
 | 🍽️ **Restaurant Reservation** | Booking system with DB integration | React.js, Tailwind, MongoDB | [GitHub](https://github.com/zarishfatima) |
 | 🗓️ **Calendar App** | React Native calendar with task scheduling | React Native, Firebase | [GitHub](https://github.com/zarishfatima) |
 | 📝 **To-Do List (Mobile)** | Mobile to-do manager for daily tasks | React Native | [GitHub](https://github.com/zarishfatima) |
-| 📝 **Notezy (Note Website)** | Full-stack MERN notes app with JWT auth, CRUD, pagination, and rich text editor | React.js, Node.js, Express.js, MongoDB, Axios, Nodemailer, Jest, Mocha, Chai, SonarQube (Docker), GitHub | [Live Demo](https://notezy-zf.netlify.app) |
+| 📝 **Notezy ** | Full-stack MERN notes app with JWT auth, CRUD, pagination, and rich text editor | React.js, Node.js, Express.js, MongoDB, Axios, Nodemailer, Jest, Mocha, Chai, SonarQube (Docker), GitHub | [Notezy](https://notezy-zf.netlify.app) |
 ---
 
 ### 🛠️ Skills & Technologies
